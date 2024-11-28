@@ -2,7 +2,7 @@ package org.sample.mavansample;
 
 /**
  * Hello world!
- *
+ *hi
  */
 public class App
 {
