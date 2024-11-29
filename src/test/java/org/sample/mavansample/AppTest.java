@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App. is my
+ * Unit test for simple App. is my testing
  */
 public class AppTest
     extends TestCase
